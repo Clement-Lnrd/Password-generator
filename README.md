@@ -6,7 +6,7 @@ Password generator is a program that generates you password.
 
 ### 🐧 Linux
 
-Download the file [password_generator](https://github.com/Clement-Lnrd/password-generator) to install Password generator.
+Download the archive [password_generator]([https://github.com/Clement-Lnrd/password-generator](https://github.com/Clement-Lnrd/Password-generator/releases/tag/password-generator)) and unzip it to install Password generator.
 
 Then, go to your Downloads folder (or somewhere else where you downloaded the file), open a terminal, and type:
 ```bash
